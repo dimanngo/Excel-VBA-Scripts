@@ -6,3 +6,5 @@ VBA Scripts for Excel
 1. Натисніть клавіші ALT + F11 , щоб відкрити редактор Visual Basic
 2. Додайте новий порожній модуль через меню Insert - Module
 3. Скопіюйте і вставте туди текст цієї функції:
+
+## MultySelectDropDownList - Excel Macros implemented using VBA for providing the possibility to select multiple values from drop down list.
